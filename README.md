@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ningu
-- 👀 I’m interested in Full stack developement Master in Android,iOS, API, database
-- 🌱 I’m currently learning Flutter, Web, Firebase, mongodb
-- 💞️ I’m looking to collaborate on - Open source projects
+- 👀 I’m interested in Full stack developement in Android,iOS, API, database
+- 🌱 I’m currently learning Web, Firebase, Mongodb
+- 💞️ I’m looking to collaborate for - Open source projects
 - 📫 How to reach me - Contact 8149845265, Email me at ninganna2102@gmail.com
 
 <!---
